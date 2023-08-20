@@ -8,6 +8,8 @@
 
 
 # GIF Demo
+https://i.imgur.com/xP1r1dC.gif
+
 ![demo](https://github.com/adaYakunZhang/codepath-iOS-prework/assets/97945284/fa198633-698d-4b1b-b6a5-8c73eb6aa322)
 
 
