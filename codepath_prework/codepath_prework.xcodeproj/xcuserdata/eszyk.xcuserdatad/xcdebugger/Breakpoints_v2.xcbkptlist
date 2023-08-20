@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9632BF93-132E-4E15-8511-E2F5AB77A1BB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47D23F67-7550-44F5-9355-D2A6ABECF114"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "codepath_prework/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "47D23F67-7550-44F5-9355-D2A6ABECF114 - 3a0b942e6d2dc00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "codepath_prework.ViewController.changeTextColor(__C.UIButton) -&gt; ()"
+                  moduleName = "codepath_prework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eszyk/iOS_Development/codepath_prework/codepath_prework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "81">
+               </Location>
+               <Location
+                  uuid = "47D23F67-7550-44F5-9355-D2A6ABECF114 - 727097ec90363cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "codepath_prework.ViewController.jobText.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "codepath_prework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eszyk/iOS_Development/codepath_prework/codepath_prework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "47D23F67-7550-44F5-9355-D2A6ABECF114 - 3304c7c804e507c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "codepath_prework.ViewController.jobText.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "codepath_prework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eszyk/iOS_Development/codepath_prework/codepath_prework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "47D23F67-7550-44F5-9355-D2A6ABECF114 - f73b49d0b871eacf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "codepath_prework.ViewController.jobText.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "codepath_prework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eszyk/iOS_Development/codepath_prework/codepath_prework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "47D23F67-7550-44F5-9355-D2A6ABECF114 - dfab020825de4a89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "codepath_prework.ViewController.jobText.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "codepath_prework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eszyk/iOS_Development/codepath_prework/codepath_prework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "47D23F67-7550-44F5-9355-D2A6ABECF114 - 2c9cc9312d0f656d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "codepath_prework.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; codepath_prework.ViewController"
+                  moduleName = "codepath_prework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eszyk/iOS_Development/codepath_prework/codepath_prework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "223">
+               </Location>
+               <Location
+                  uuid = "47D23F67-7550-44F5-9355-D2A6ABECF114 - 7a905eb9dcec0066"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "codepath_prework.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;codepath_prework.ViewController&gt;"
+                  moduleName = "codepath_prework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eszyk/iOS_Development/codepath_prework/codepath_prework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
